@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+.inner {
+  width: 300px;
+  height: 100px;
+  background-color: lightblue;
+  padding: 50px;
+}
+
+.outer {
+  width: 400px;
+  border: 15px solid blue;
+  margin: 20px;
+}
